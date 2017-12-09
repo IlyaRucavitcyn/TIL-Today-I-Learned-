@@ -1,7 +1,7 @@
 # TIL-Today-I-Learned-
 Here is a new repo I have created to share things I am learning from one to another day.
 
-** Github Markdown **
+**Github Markdown**
 [Anchored headings](#create-anchored-markdown-link)
 
 ## Create Anchored Markdown Link
